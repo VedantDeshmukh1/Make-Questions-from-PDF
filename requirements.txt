@@ -1,0 +1,6 @@
+# -r requirements.txt
+
+langchain
+pypdf2
+langchain-google-genai
+google-api-python-client
