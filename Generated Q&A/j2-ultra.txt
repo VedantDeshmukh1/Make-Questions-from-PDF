@@ -1,0 +1,58 @@
+Questions for Text Chunk 1:
+1. True or False question: The Big Mac Index was introduced in The Economist in September 1986 by Pam Woodall as a semi-humorous illustration of PPP.
+    2. Multiple Choice Question (MCQ) with four options: In which country is a Big Mac the most expensive as of July 2023?
+    3. One-word answer question: What is the name of the index that measures the purchasing power parity between currencies?
+
+Questions for Text Chunk 2:
+1. True or False question: "The Big Mac index was invented by The Economist."
+    2. Multiple Choice Question (MCQ) with four options: "According to the Big Mac index, the Swiss franc is undervalued by ___% against the US dollar."
+        1. 38.5%
+        2. 10%
+        3. 20%
+        4. 40%
+    3. One-word answer question: "Which company first produced the Billy index?"
+        1. Bloomberg L.P.
+        2. The Economist
+        3. Big Mac index
+        4. McDonald's
+
+Questions for Text Chunk 3:
+1. True or False question: The Big mac index is limited by geographical coverage.
+    2. Multiple Choice Question (MCQ) with four options: In which of the following countries is McDonald's present?
+    a. Netherlands
+    b. Germany
+    c. Switzerland
+    d. Egypt
+
+Questions for Text Chunk 4:
+1. In which of the following years was the BigMac index first mentioned by The Economist?
+    2. In which year the 200 Argentinean McDonald's restaurants began acting unusually?
+    3. With reference to BigMac, what does 'value meal' mean?
+    4. Which of the following statements about the BigMac index is false?
+      1. The BigMac index supports claims that Argentina's government is cooking the books
+      2. The BigMac index supports claims that Iceland's government is cooking the books
+      3. The BigMac index supports claims that Switzerland's government is cooking the books
+      4. The BigMac index supports claims that Norway's government is cooking the books
+    5. Which of the following statements about Big Mac sandwiches is false?
+      1. The BigMac is the same in different countries
+      2. The BigMac in India is different from the Big Mac in other countries
+      3. The BigMac in Australia has 22% fewer calories than in Canada
+      4. The BigMac in Mexico is 8% lighter than in Australia
+    6. By what percent did the price of a Big Mac value meal rise in June 2012?
+    7. What serves as the substitute for the BigMac in India?
+    8. Why, in November 2009, did the three McDonald's in Iceland close?
+    9. Which of the following statements about the BigMac in Iceland is false?
+     
+
+Questions for Text Chunk 5:
+1. True or False: The average working time required to buy a Big Mac in Nairobi, Kenya, was 172.6 minutes.
+    2. Multiple Choice Question (MCQ): This statistic shows the cities where the average working time required to buy a Big Mac was:
+    a. lowest
+    b. highest
+    c. fastest
+    d. slowest
+    3. One-word answer: In which year was the first statistic published?
+    a. 2015
+    b. 2023
+    c. 2015
+    d. 2022
