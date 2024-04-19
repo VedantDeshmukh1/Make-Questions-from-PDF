@@ -1,0 +1,166 @@
+Questions for Text Chunk 1:
+**True or False Questions**
+1. The Big Mac Index is a method for measuring the relative cost of goods between countries. (True)
+2. The Big Mac Index was originally intended as a legitimate tool for exchange rate evaluation. (False)
+3. The price of a Big Mac is only influenced by the cost of ingredients. (False)
+
+**Multiple Choice Questions (MCQ)**
+1. What is the purpose of the Big Mac Index?
+   (a) To determine the real exchange rate between currencies
+   (b) To measure the purchasing power of consumers
+   (c) To test the validity of purchasing power parity
+   (d) To track the profitability of McDonald's restaurants
+
+2. Which of the following is NOT a factor considered in the Big Mac Index calculation?
+   (a) Price of ingredients
+   (b) Local wages
+   (c) Exchange rates
+   (d) Cost of advertising
+
+3. What is the base country typically used for the Big Mac Index?
+   (a) Switzerland
+   (b) United States
+   (c) United Kingdom
+   (d) Japan
+
+4. Which of the following is a limitation of the Big Mac Index?
+   (a) It is only applicable to a single product
+   (b) It does not account for differences in quality
+   (c) It is subject to currency fluctuations
+   (d) All of the above
+
+**One-word Answer Questions**
+1. What is the name of the organization that introduced the Big Mac Index? (The Economist)
+2. What type of economic concept does the Big Mac Index measure? (Purchasing power parity)
+3. What is the currency unit used in Switzerland? (Swiss franc)
+
+Questions for Text Chunk 2:
+**True or False Questions:**
+
+1. The Big Mac index is used to compare the implied exchange rate to the actual exchange rate. (True)
+2. If the implied exchange rate is less than the actual exchange rate, the currency is overvalued. (False)
+3. The Swiss franc was overvalued against the US dollar in July 2023 according to the Big Mac index. (True)
+4. The "iPod index" is a variation of the Big Mac index that uses the price of iPods. (True)
+
+**Multiple Choice Questions:**
+
+1. Which of the following is NOT a variant of the Big Mac index?
+    (a) Tall Latte index
+    (b) Billy index
+    (c) Gold-Mac-Index
+    (d) Happy Meal index
+
+2. What is the purpose of the Big Mac index?
+    (a) To measure inflation
+    (b) To compare exchange rates
+    (c) To determine the value of a country's currency
+    (d) To estimate the cost of living
+
+3. Which of the following factors can affect the accuracy of the Big Mac index?
+    (a) Shipping costs
+    (b) Taxes
+    (c) Local production costs
+    (d) All of the above
+
+4. What does the Latte Line measure?
+    (a) The correlation between coffee prices and GDP
+    (b) The number of lattes a person can buy with their salary
+    (c) The difference between the price of a latte in different countries
+    (d) The popularity of coffee around the world
+
+**One-word Answer Questions:**
+
+1. What is the name of the index that compares the price of a Big Mac in different countries?
+2. What is the unit of measurement used in the Gold-Mac-Index?
+3. What does the Big Mac Pay Gap Index show?
+
+Questions for Text Chunk 3:
+**True or False Questions:**
+
+1. True or False: The Big Mac Index is only available for countries with McDonald's restaurants.
+
+**Multiple Choice Questions (MCQ):**
+
+1. Which of the following countries is NOT mentioned in the text as having a McDonald's restaurant?
+   (a) Morocco
+   (b) India
+   (c) United States
+   (d) Kenya
+
+2. What is the name of the index used to measure the cost of living in Africa?
+   (a) Big Mac Index
+   (b) KFC Index
+   (c) McDonald's Index
+   (d) Africa Index
+
+3. According to the text, what is a major factor influencing the price of a Big Mac in different countries?
+   (a) Exchange rates
+   (b) Local production costs
+   (c) Social status
+   (d) Import duties
+
+4. Which of the following is NOT mentioned as a reason for the variation in Big Mac prices within a country?
+   (a) Urban vs. rural location
+   (b) Cost of ingredients
+   (c) Business dining expenses
+   (d) Currency values
+
+**One-word Answer Questions:**
+
+1. What is the name of the fast-food chain used in the Big Mac Index?
+2. What is the name of the city mentioned as having the most expensive Big Macs?
+3. What is the name of the index used to measure the cost of non-tradable goods and services?
+
+Questions for Text Chunk 4:
+**True or False Questions:**
+
+1. The Economist magazine supports the claims that Argentina's government has falsified inflation data.
+2. McDonald's restaurants in Argentina stopped selling Big Macs altogether.
+
+**Multiple Choice Questions (MCQ):**
+
+1. Which of the following is NOT mentioned as a reason for the closing of McDonald's in Iceland?
+   (a) High cost of importing meat and vegetables
+   (b) Lack of local demand for beef
+   (c) Government regulations
+   (d) Currency devaluation
+
+2. Which country has the most expensive Big Mac according to the text?
+   (a) Argentina
+   (b) Switzerland
+   (c) Norway
+   (d) Uruguay
+
+**One-word Answer Questions:**
+
+1. What is the name of the government official who allegedly forced McDonald's to sell the Big Mac at an artificially low price?
+2. What is the name of the substitute for the Big Mac in India?
+3. What ingredient is missing from the Big Mac in India?
+
+Questions for Text Chunk 5:
+**True or False Questions:**
+1. The Big Mac is the least expensive in Egypt. (False)
+2. It takes less time to earn enough money to buy a Big Mac in Tokyo than in Zurich. (False)
+3. The Philippines is one of the slowest places to earn enough money to buy a Big Mac. (True)
+
+**Multiple Choice Questions (MCQ):**
+1. Which of the following is the cheapest place to buy a Big Mac?
+   (a) South Africa
+   (b) Taiwan
+   (c) Egypt
+   (d) India
+2. In which city does it take the longest to earn enough money to buy a Big Mac?
+   (a) Nairobi
+   (b) Manila
+   (c) Mexico City
+   (d) Cairo
+3. How much does a Big Mac cost in Indonesia?
+   (a) $2.39
+   (b) $2.52
+   (c) $2.62
+   (d) $2.82
+
+**One-word Answer Questions:**
+1. What is the currency of Taiwan? (TWD)
+2. Which country has the fastest time to earn enough money to buy a Big Mac? (Hong Kong)
+3. What is the average working time required to buy a Big Mac in Jakarta in 2015? (66.7 min)
