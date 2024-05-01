@@ -1,3 +1,4 @@
+!pip install langchain pypdf2 langchain-google-genai google-api-python-client
 import streamlit as st
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import CharacterTextSplitter
