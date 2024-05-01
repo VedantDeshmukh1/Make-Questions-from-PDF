@@ -1,5 +1,6 @@
 # -r requirements.txt
 
+pypdf
 langchain
 pypdf2
 langchain-google-genai
