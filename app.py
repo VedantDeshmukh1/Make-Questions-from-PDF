@@ -45,7 +45,7 @@ def generate_questions(pdf_path, api_key):
 
 # Streamlit app
 def main():
-    st.title("Question Generator")
+    st.title("Question Generator \U0001F929")
     st.write("Upload your PDF enter API-KEY and automatically process it to generate MCQ, one-word, and true or false questions.")
     # API key input
     api_key = st.text_input("Enter your Google API key")
