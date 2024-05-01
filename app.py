@@ -48,7 +48,7 @@ def main():
     page_bg_img = '''
 <style>
 body {
-background-image: url("dark-forest-shsyax3tzax42p9o.jpg");
+background-image: url("https://wallpapers.com/images/featured/dark-forest-shsyax3tzax42p9o.jpg");
 background-size: cover;
 }
 </style>
