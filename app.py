@@ -45,7 +45,7 @@ def generate_questions(pdf_path, api_key):
 
 # Streamlit app
 def main():
-    image_url = "https://www.vecteezy.com/vector-art/10630892-dark-abstract-background-black-overlap-vector"
+    image_url = "bg1"
     set_background_image(image_url)
     st.title("Question Generator \U0001F929")
     st.write("Upload your PDF enter API-KEY and automatically process it to generate MCQ, one-word, and true or false questions.")
