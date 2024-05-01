@@ -6,49 +6,45 @@ from langchain.prompts import PromptTemplate
 from langchain_google_genai import GoogleGenerativeAI
 
 def generate_questions(pdf_path, api_key):
-    # Load the PDF document
-    loader = PyPDFLoader(pdf_path)
-    documents = loader.load()
-
-    # Split the text into chunks
-    text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=0)
-    texts = text_splitter.split_documents(documents)
-
-    # Define the prompt template
-    prompt_template = """
-    Given the following text, generate multiple questions of three or more types as follows:
-    1. True or False question
-    2. Multiple Choice Question (MCQ) with four options
-    3. One-word answer question
-
-    Text:
-    {text}
-
-    Questions:
-    """
-
-    prompt = PromptTemplate(template=prompt_template, input_variables=["text"])
-
-    # Initialize the Google Language Model
-    llm = GoogleGenerativeAI(model="gemini-pro", google_api_key=api_key)
-
-    # Create the question generation chain
-    question_chain = LLMChain(llm=llm, prompt=prompt)
-
-    # Generate questions for each text chunk
-    questions = []
-    for i, text in enumerate(texts):
-        response = question_chain.run(text=text.page_content)
-        questions.append(f"Questions for Text Chunk {i+1}:\n{response}")
-
-    return questions
+    # ... (code remains the same)
 
 # Streamlit app
 def main():
-    st.title("Question Generator")
+    st.set_page_config(page_title="Question Generator", page_icon=":question:", layout="wide")
+
+    # Custom CSS styles
+    st.markdown(
+        """
+        <style>
+        .title {
+            font-size: 36px;
+            font-weight: bold;
+            color: #2E86C1;
+            margin-bottom: 20px;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #34495E;
+            margin-bottom: 10px;
+        }
+        .question {
+            font-size: 18px;
+            color: #2C3E50;
+            margin-bottom: 10px;
+        }
+        .divider {
+            border-top: 1px solid #ccc;
+            margin: 20px 0;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown('<div class="title">Question Generator</div>', unsafe_allow_html=True)
 
     # API key input
-    api_key = st.text_input("Enter your Google API key")
+    api_key = st.text_input("Enter your Google API key", type="password")
 
     # File uploader
     uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")
@@ -59,12 +55,15 @@ def main():
             f.write(uploaded_file.getvalue())
 
         # Generate questions
-        questions = generate_questions("temp.pdf", api_key)
+        with st.spinner("Generating questions..."):
+            questions = generate_questions("temp.pdf", api_key)
 
         # Display the generated questions
-        for question in questions:
+        st.markdown('<div class="subtitle">Generated Questions</div>', unsafe_allow_html=True)
+        for i, question in enumerate(questions):
+            st.markdown(f'<div class="question"><strong>Questions for Text Chunk {i+1}:</strong></div>', unsafe_allow_html=True)
             st.write(question)
-            st.write("---")
+            st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
