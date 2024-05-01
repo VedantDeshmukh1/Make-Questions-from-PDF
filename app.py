@@ -45,8 +45,18 @@ def generate_questions(pdf_path, api_key):
 
 # Streamlit app
 def main():
-    image_url = "dark-forest-shsyax3tzax42p9o.jpg"
-    set_background_image(image_url)
+    page_bg_img = '''
+<style>
+body {
+background-image: dark-forest-shsyax3tzax42p9o.jpg;
+background-size: cover;
+}
+</style>
+'''
+
+    st.markdown(page_bg_img, unsafe_allow_html=True)
+    #image_url = "dark-forest-shsyax3tzax42p9o.jpg"
+    #set_background_image(image_url)
     st.title("Question Generator \U0001F929")
     st.write("Upload your PDF enter API-KEY and automatically process it to generate MCQ, one-word, and true or false questions.")
     # API key input
